@@ -1,0 +1,11 @@
+Data API Endpoint:
+http://cqtestga.com:4000/data/messages
+
+Your task is to create a data table in React that fetches all the data from the provided API endpoint at once. The data table should have the following features:
+
+Searchable: Users should be able to search through the table to find specific records.
+Sortable: Allow users to sort data by column headers.
+Paginated: Display a limited number of entries per page (e.g., 20 records at a time) with navigation options to view additional pages.
+
+Note: The design of the table is not a priority. Focus on functionality over appearance.
+Time Suggestion: Please aim to complete this task within 1 to 2 hours.
